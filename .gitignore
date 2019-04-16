@@ -1,0 +1,12 @@
+match-results-backend/.build
+Package.resolved
+match-results-backend/match-results-backend.xcodeproj/GeneratedModuleMap
+match-results-backend/match-results-backend.xcodeproj/project.xcworkspace
+match-results-backend/match-results-backend.xcodeproj/xcshareddata
+match-results-backend/match-results-backend.xcodeproj/xcuserdata
+match-results-common/match-results-common.xcodeproj/xcshareddata
+match-results-common/match-results-common.xcodeproj/xcuserdata
+match-results-ios/match-results-ios.xcodeproj/xcshareddata
+match-results-ios/match-results-ios.xcodeproj/xcuserdata
+match-results.xcworkspace/xcuserdata
+match-results.xcworkspace/xcshareddata

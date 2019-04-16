@@ -1,0 +1,11 @@
+<html>
+<head>Sample</head>
+<body>
+hello<br>
+<ul>
+#for(federation in federations) {
+    <li>#(federation.federationId) - #(federation.federationName)</li>
+}
+</ul>
+</body>
+<html>

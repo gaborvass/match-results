@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Sample</title>
+</head>
+<body>
+Leagues :
+<select id="league_selector">
+    #for(league in leagues) {
+    <option id="#(league.leagueId)">#(league.leagueName)</option>
+    }
+</select>
+<br>
+</body>
+</html>

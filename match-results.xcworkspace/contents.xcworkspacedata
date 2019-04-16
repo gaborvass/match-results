@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:match-results-ios/match-results-ios.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:match-results-common/match-results-common.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:match-results-backend/match-results-backend.xcodeproj">
+   </FileRef>
+</Workspace>
